@@ -20,4 +20,4 @@ This repository will accepting contributions (pull requests only). If you wish t
 
 ## License
 
-This repository and its contents are licensed under the WTFPL license, with additional terms applied. Please see [LICENSE.md](LICENSE.md) for details.
+This repository and its contents are licensed under the GPL v3 license, with additional terms applied. Please see [LICENSE.md](LICENSE.md) for details.
