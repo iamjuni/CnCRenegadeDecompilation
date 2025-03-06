@@ -6,7 +6,9 @@ Port Macos first then linux.
 
 # To Do
 A full rewrite of the code.
+
 Use clang (https://clang.llvm.org/get_started.html) for compiling.
+
 SDL3 | Window and main game loop
 
 SDL3 | replace mutex.h and thread.h with SDL3 implementations
